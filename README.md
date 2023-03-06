@@ -1,4 +1,4 @@
-### Hi, I'm Nahuel Rodriguez 🎓
+### Nahuel Rodriguez 🎓
 
 ```js
 const nahuelRo = {
