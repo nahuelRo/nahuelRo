@@ -1,8 +1,5 @@
 # Hello! My name is Nahuel Rodriguez 🚀
 
-## About me 
-My journey into development began during the pandemic in 2021, exploring online courses and documentation. Despite the challenges, I didn't let anything deter my path. In 2023, I joined an intensive bootcamp, dedicating over 800 hours to project development and teamwork. My skills span from frontend to backend. I've executed notable projects, showcasing not only my technical skills but also my ability to collaborate effectively. My journey is continually evolving, with a focus on learning, contributing to open-source projects, and exploring new technologies.
-
 ### Technologies
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![NextJS](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=nextdotjs)
