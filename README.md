@@ -14,6 +14,7 @@
   ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
   <br/>
+  ![Nestjs](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=nestjs)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
