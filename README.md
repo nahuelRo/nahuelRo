@@ -1,4 +1,4 @@
-# Hello! My name is Nahuel Rodriguez 🚀
+# Nahuel Rodriguez 🚀
 
 ### Technologies
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
