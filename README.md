@@ -1,8 +1,7 @@
 # Nahuel Rodriguez
 
-**Full Stack Developer** — productos operativos end-to-end (SaaS, logística, salud, e-commerce).
+**Full Stack Developer**
 
-El stack cambia; el método no: operación → modelo de datos → permisos → UI/API → verificación → entrega y mantenimiento.
 
 ## Enlaces
 
@@ -22,5 +21,3 @@ El stack cambia; el método no: operación → modelo de datos → permisos → 
 | [portfolio](https://github.com/nahuelRo/portfolio) | Hub profesional en Astro (este perfil apunta acá) |
 | Mekko | OS de talleres (Next.js + Supabase + IA) — próximamente público |
 | Demo de flotas | Operaciones con mock data — en preparación |
-
-Ubicación: San Pedro, Buenos Aires · Disponible para trabajo remoto (LATAM / España).
