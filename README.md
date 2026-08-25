@@ -106,8 +106,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0c10?style=for-the-badge&logo=linkedin&logoColor=d4a574)](https://www.linkedin.com/in/nahuelro/)
 [![Email](https://img.shields.io/badge/nahuelr.developer@gmail.com-1a1f2a?style=for-the-badge&logo=gmail&logoColor=d4a574)](mailto:nahuelr.developer@gmail.com)
 
-<br/>
-
-⭐️ Desde San Pedro, Buenos Aires · abierto a remoto LATAM / España
-
 </div>
