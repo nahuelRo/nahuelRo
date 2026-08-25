@@ -98,29 +98,6 @@
 
 ---
 
-## Stats
-
-<div align="center">
-
-<a href="https://github.com/nahuelRo">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nahuelRo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=d4a574&icon_color=d4a574&text_color=e8ecf4&bg_color=0a0c10&ring_color=d4a574" alt="Nahuel's GitHub stats" />
-</a>
-<a href="https://github.com/nahuelRo">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelRo&layout=compact&hide_border=true&title_color=d4a574&text_color=e8ecf4&bg_color=0a0c10&langs_count=8" alt="Top languages" />
-</a>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelRo&theme=dark&hide_border=true&background=0a0c10&ring=d4a574&fire=d4a574&currStreakLabel=d4a574&sideLabels=e8ecf4&dates=9aa3b5&currStreakNum=e8ecf4&sideNums=e8ecf4" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nahuelRo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-
-</div>
-
----
-
 ## Ahora mismo
 
 <div align="center">
