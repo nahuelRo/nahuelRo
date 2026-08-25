@@ -142,6 +142,4 @@
 
 <br/>
 
-⭐️ Desde San Pedro, Buenos Aires · abierto a remoto LATAM / España
-
 </div>
