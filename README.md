@@ -98,26 +98,11 @@
 
 ---
 
-## Ahora mismo
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| **Portfolio live** | **Fleet Ops demo** | **Próximo** |
-| [Abrir hub](https://portfolio-sigma-smoky-64.vercel.app) | [Probar login](https://fleet-ops-demo-azure.vercel.app/app/login) | MCP server + API R/W |
-| Astro · método Full Stack | Next.js · Supabase · mock data | Agentes + read/write |
-
-</div>
-
----
-
 <div align="center">
 
 ### Trabajemos juntos
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-d4a574?style=for-the-badge&logo=vercel&logoColor=0a0c10)](https://portfolio-sigma-smoky-64.vercel.app)
-[![Fleet%20Ops](https://img.shields.io/badge/Demo_Fleet_Ops-0a0c10?style=for-the-badge&logo=nextdotjs&logoColor=d4a574)](https://fleet-ops-demo-azure.vercel.app/app/login)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0c10?style=for-the-badge&logo=linkedin&logoColor=d4a574)](https://www.linkedin.com/in/nahuelro/)
 [![Email](https://img.shields.io/badge/nahuelr.developer@gmail.com-1a1f2a?style=for-the-badge&logo=gmail&logoColor=d4a574)](mailto:nahuelr.developer@gmail.com)
 
