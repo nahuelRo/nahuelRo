@@ -6,8 +6,8 @@
 
 **Construyo productos que una operación usa de verdad** — hoteles, logística, talleres, equipos remotos.
 
-[Portfolio](https://portfolio-sigma-smoky-64.vercel.app) ·
-[Método](https://portfolio-sigma-smoky-64.vercel.app/metodo) ·
+[Portfolio](https://nahuelro.vercel.app) ·
+[Método](https://nahuelro.vercel.app/metodo) ·
 [LinkedIn](https://www.linkedin.com/in/nahuelro/) ·
 [Email](mailto:nahuelr.developer@gmail.com)
 
@@ -48,7 +48,7 @@
       <h3>Portfolio</h3>
       <p>Hub profesional en Astro + página de método Full Stack.</p>
       <p>
-        <a href="https://portfolio-sigma-smoky-64.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-d4a574?style=for-the-badge" alt="Live" /></a>
+        <a href="https://nahuelro.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-d4a574?style=for-the-badge" alt="Live" /></a>
         <a href="https://github.com/nahuelRo/portfolio"><img src="https://img.shields.io/badge/Código-0a0c10?style=for-the-badge&logo=github&logoColor=e8ecf4" alt="Code" /></a>
       </p>
     </td>
@@ -94,7 +94,7 @@
 
 - Productos Full Stack en producción (SaaS, hospitales, logística, e-commerce B2B).
 - Elijo el stack según el problema — no al revés.
-- Método documentado: [cómo trabajo](https://portfolio-sigma-smoky-64.vercel.app/metodo).
+- Método documentado: [cómo trabajo](https://nahuelro.vercel.app/metodo).
 
 ---
 
@@ -102,7 +102,7 @@
 
 ### Trabajemos juntos
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-d4a574?style=for-the-badge&logo=vercel&logoColor=0a0c10)](https://portfolio-sigma-smoky-64.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-d4a574?style=for-the-badge&logo=vercel&logoColor=0a0c10)](https://nahuelro.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0c10?style=for-the-badge&logo=linkedin&logoColor=d4a574)](https://www.linkedin.com/in/nahuelro/)
 [![Email](https://img.shields.io/badge/nahuelr.developer@gmail.com-1a1f2a?style=for-the-badge&logo=gmail&logoColor=d4a574)](mailto:nahuelr.developer@gmail.com)
 
