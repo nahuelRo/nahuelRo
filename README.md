@@ -121,11 +121,15 @@
 
 ---
 
-## Actividad
+## Ahora mismo
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/nahuelRo/nahuelRo/output/github-contribution-grid-snake-dark.svg)
+| | | |
+|:---:|:---:|:---:|
+| **Portfolio live** | **Fleet Ops demo** | **Próximo** |
+| [Abrir hub](https://portfolio-sigma-smoky-64.vercel.app) | [Probar login](https://fleet-ops-demo-azure.vercel.app/app/login) | MCP server + API R/W |
+| Astro · método Full Stack | Next.js · Supabase · mock data | Agentes + read/write |
 
 </div>
 
@@ -141,5 +145,7 @@
 [![Email](https://img.shields.io/badge/nahuelr.developer@gmail.com-1a1f2a?style=for-the-badge&logo=gmail&logoColor=d4a574)](mailto:nahuelr.developer@gmail.com)
 
 <br/>
+
+⭐️ Desde San Pedro, Buenos Aires · abierto a remoto LATAM / España
 
 </div>
